@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hey there friend, I'm Irvin Gil 👋
+I am a full-stack software engineer, and my tech stack comprise of Angular, Spring boot, AWS, and Grails.
 
+- 🔭 I’m currently working on telecom company where i help maintain and develop new features for their whitelabel software.
+- 🌱 I’m currently learning:
+  - How to do technical writing so that i can improve my outputs in work and also better my writing skills.
+- 📫 How to reach me: 
+  - [LinkedIn](https://linkedin.com/in/irvin-gil-m3rc4d0/)
+  - [Facebook](https://www.facebook.com/ehrbhein)
+
+I also write and post blogs about my personal learnings on my tech journey as a developer on [Dev.to](https://dev.to/ehrbhein). Get to know me more by visiting my [personal portfolio](https://personal-web-portfolio-6e0ea.web.app/).
 <!--
 **theOfficial-IrvinGiL/theOfficial-IrvinGiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
