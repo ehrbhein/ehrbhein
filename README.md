@@ -63,16 +63,16 @@ I also write and post blogs about my personal learnings and my tech-journey as a
 <h2 align="left">Github Stats</h2>
 
 <h3 align="left">Work Account</h3>
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <img height=175 src="https://github-readme-stats.vercel.app/api?username=irvingil&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
-  <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvingil&theme=tokyonight&layout=compact" />
+<div style="display: flex; flex-direction: row; gap: 10px; align-content: flex-start; align-items: center;">
+  <img height=120 src="https://github-readme-stats.vercel.app/api?username=irvingil&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
+  <img height=120 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvingil&theme=tokyonight&layout=compact" />
 </div>
 
 
 <h3 align="left">Personal Account</h3>
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <img height=175 src="https://github-readme-stats.vercel.app/api?username=theofficial-irvingil&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
-  <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofficial-irvingil&theme=tokyonight&layout=compact" />
+<div style="display: flex; flex-direction: row; gap: 10px; align-content: flex-start;align-items: center;">
+  <img height=120 src="https://github-readme-stats.vercel.app/api?username=theofficial-irvingil&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
+  <img height=120 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofficial-irvingil&theme=tokyonight&layout=compact" />
 </div>
 </div>  
 
