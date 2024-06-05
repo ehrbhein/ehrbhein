@@ -71,8 +71,8 @@ I also write and post blogs about my personal learnings and my tech-journey as a
 
 <h3 align="left">Personal Account</h3>
 <p>
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=theofficial-irvingil&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />&nbsp;&nbsp;
-  <img height=150 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofficial-irvingil&theme=tokyonight&layout=compact" />&nbsp;&nbsp;
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=ehrbhein&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />&nbsp;&nbsp;
+  <img height=150 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehrbhein&theme=tokyonight&layout=compact" />&nbsp;&nbsp;
 </p>
 
 
